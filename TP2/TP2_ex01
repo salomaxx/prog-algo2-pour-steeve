@@ -46,7 +46,7 @@ int main(int argc, char *argv[])
 
     selectionSort(tab);
 
-    std::cout << "tri exo1: " << "\n";
+    cout << "tri exo1: " << "\n";
 
     for(int i=0;i<tailleTb;i++){
         std::cout << tab[i] << "\n";
